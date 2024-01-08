@@ -23,7 +23,7 @@
 	.blue-divider{
 		width: 100px;
 		height: 2px;
-		background:  #008000;
+		background:  #87CEFA;
 		margin: 0 auto;
 	}
 	.white-divider{
@@ -40,7 +40,7 @@
 	/* MENU */
 
 	.navbar{
-	 background: #008000;
+	 background: #87CEFA;
 	 font-size: 12px;
 	 letter-spacing: 4px;
 	 text-transform: uppercase;
@@ -58,7 +58,7 @@
 		color: #fff !important;
 	}
 	.navbar-nav li a:hover, .navbar-nav li.active a{
-		color: #008000 !important;
+		color: #87CEFA !important;
 		background: #fff !important;
 	}
 	.navbar-default .navbar-toggle{
@@ -73,7 +73,7 @@
 
 	#about{
 		padding-top: 100px;
-		background: #008000;
+		background: #87CEFA;
 	}
 	.profile-picture{
 		text-align: center;
@@ -101,7 +101,7 @@
 	}
 	.button1:hover{
 		background: #fff;
-		color:  #008000;
+		color:  #87CEFA;
 		text-decoration: none;
 	}
 
@@ -111,7 +111,7 @@
 		background: #fff;
 	}
 	#education .heading h2{
-		color:  #008000;
+		color:  #87CEFA;
 	}
 	.education-block{
 		width: 80%;
@@ -132,7 +132,7 @@
 		font-size: 40px;
 	}
 	.education-block h3{
-		color: #008000; 
+		color: #87CEFA; 
 	}
 	.education-block h4{
 		margin-bottom: 20px; 
@@ -147,7 +147,7 @@
 	/* PRACTICE */
 
 	#experience{
-		background:#008000; 
+		background:#87CEFA; 
 	}
 	#experience .heading h2{
 		color: #fff;
@@ -178,7 +178,7 @@
 		display: table;
 	}
 	.timeline li .timeline-badge{
-		color: #008000;
+		color: #87CEFA;
 		width: 50px;
 		line-height: 50px;
 		font-size: 20px;
@@ -236,7 +236,7 @@
 		font-size: 20px;
 	}
 	.timeline-heading h4{
-		color:  #008000;
+		color:  #87CEFA;
 	}
 
 
@@ -247,7 +247,7 @@
 		background: #fff;
 	}
 	#language .heading h2{
-		color:  #008000;
+		color:  #87CEFA;
 	}
 	.language-block{
 		width: 60%;
@@ -264,7 +264,7 @@
 		font-size: 40px;
 	}
 	.language-block h3{
-		color: #008000; 
+		color: #87CEFA; 
 	}
 	.language-block h4{
 		margin-bottom: 20px; 
@@ -274,7 +274,7 @@
 	/* PORTFOLIO */
 
 	#portfolio{
-		background: #008000; 
+		background: #87CEFA; 
 	}
 	#portfolio .heading h2{
 		color: #fff;
@@ -296,26 +296,26 @@
 		background: #fff;
 	}
 	#interesse .heading h2{
-		color:  #008000;
+		color:  #87CEFA;
 	}
 	.carousel-control.left, .carousel-control.right{
 		background-image: none;
-		color: #008000;
+		color: #87CEFA;
 	} 
 	.carousel-indicators{
 		bottom: 0px;
 	}
 	.carousel-indicators li{
-		border-color: #008000; 
+		border-color: #87CEFA; 
 	}
 	.carousel-indicators li.active{
-		background-color:  #008000;
+		background-color:  #87CEFA;
 	}
 	#myCarousel .item{
 		padding: 40px 30px;
 	}
 	#myCarousel .item h3{
-		color:  #008000;
+		color:  #87CEFA;
 		font-style: italic;
 	}
 
@@ -328,7 +328,7 @@
 	footer .glyphicon{
 		font-size: 25px; 
 		margin: 20px;
-		color: #008000;
+		color: #87CEFA;
 		height:30px;
 	}
 	footer .glyphicon:hover{
